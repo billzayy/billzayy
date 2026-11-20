@@ -1,64 +1,46 @@
-<img data-importer="image" align="right" height="150" src="https://scontent.fsgn2-10.fna.fbcdn.net/v/t39.30808-1/893346067_3097557963784518_1440963102064326415_n.avif?stp=dst-jpg_tt6&cstp=mx1024x1024&ctp=s200x200&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=_R-ibZ5xFq4Q7kNvwHW2DXE&_nc_oc=AdqsAyFePNtuKQbiG_WTQ3mqIoPajIifJhH-mP8K5_jtuvZcKzxXNtKWz7ENQT5dNi4&_nc_zt=24&_nc_ht=scontent.fsgn2-10.fna&_nc_gid=GmdYplzs8LulOKkyIr-HLQ&_nc_ss=7b2a8&oh=00_AQRC0TKZM4YqaFba_tOH0LJY6ddYAYGfui3a5Md63skL-w&oe=6B065A45"  />
+# Hi👋, My nickname is BillZay
+## Software Developer 🚀
 
-###
+<!-- Section Badges -->
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanlp/)
+[![GitHub followers](https://img.shields.io/github/followers/billzayy?label=Follow&style=social)](https://github.com/billzayy)
+[![X](https://img.shields.io/twitter/follow/hiraeth_bill)](https://x.com/hiraeth_bill)
+![Profile views](https://komarev.com/ghpvc/?username=elverdavid-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
 
-###
+- 👨‍💻 +2 years experience in personal projects & 1 year experience on company projects
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/billzayy/billzayy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/billzayy/billzayy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- 🛠️ My main tools are TypeScript, React and Go.
 
-###
+- 🌱 Passionate about exploring new technologies and development methodologies.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billzayy/billzayy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billzayy/billzayy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/billzayy/billzayy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+- 🤝 Open to new opportunities and collaborations. Let's talk!
 
-###
+<!-- Section lenguages and tools -->
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/tuanlp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
+</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,nestjs,html,css,js,go,postgres,mongo,docker,gcp,aws,flutter&perline=7" />
   </a>
-  <a href="https://x.com/hiraeth_bill" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/552833291363942400" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
-###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:billzayy?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<!-- Section gitHub Stats-->
+<h2>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
+</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-stats-extended.vercel.app/api?username=billzayy&show_icons=true&include_all_commits=true&theme=dark_github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-stats-extended.vercel.app/api/top-langs?username=billzayy&langs_count=4&theme=dark_github" />
+</a>
 
-###
+### 🌐 [Visit my Portfolio](https://le-tuan-portfolio.vercel.app/) 🚀🌟
+
+------
+Credit: [billzayy](https://github.com/billzayy)
+
+Last Edited on: 21/11/2026
