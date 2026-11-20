@@ -3,11 +3,11 @@
 
 <!-- Section Badges -->
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanlp/)
-[![GitHub followers](https://img.shields.io/github/followers/billzayy?label=Follow&style=social)](https://github.com/billzayy)
 [![X](https://img.shields.io/twitter/follow/hiraeth_bill)](https://x.com/hiraeth_bill)
 <a href="https://github.com/billzayy">
-		<img src="https://komarev.com/ghpvc/?username=billzayy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-	</a>
+	<img src="https://komarev.com/ghpvc/?username=billzayy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+[![GitHub followers](https://img.shields.io/github/followers/billzayy?label=Follow&style=social)](https://github.com/billzayy)
 
 - 👨‍💻 +2 years experience in personal projects & 1 year experience on company projects
 
