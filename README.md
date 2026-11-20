@@ -24,7 +24,7 @@
 </h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,nestjs,html,css,js,go,postgres,mongo,docker,gcp,aws,flutter&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,tailwind,react,html,css,js,go,postgres,mongo,docker,gcp,flutter,arch,linux,neovim&perline=7" />
   </a>
 
 
